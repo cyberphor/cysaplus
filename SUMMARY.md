@@ -5,11 +5,11 @@
 ## Threat and Vulnerability Management
 
 * [Threat Intelligence](threat-and-vulnerability-management/untitled/README.md)
+  * [Threat Actors](threat-and-vulnerability-management/untitled/threat-actors.md)
   * [Intelligence Sources](threat-and-vulnerability-management/untitled/intelligence-sources.md)
   * [Indicators of Compromise](threat-and-vulnerability-management/untitled/indicator-management.md)
   * [Confidence Levels](threat-and-vulnerability-management/untitled/confidence-levels.md)
   * [Threat Classification](threat-and-vulnerability-management/untitled/threat-classification.md)
-  * [Threat Actors](threat-and-vulnerability-management/untitled/threat-actors.md)
   * [Intelligence Cycle](threat-and-vulnerability-management/untitled/intelligence-cycle.md)
   * [Commodity Malware](threat-and-vulnerability-management/untitled/commodity-malware.md)
 * [Threat Analysis](threat-and-vulnerability-management/threat-analysis/README.md)
