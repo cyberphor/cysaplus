@@ -11,7 +11,6 @@
   * [Confidence Levels](threat-and-vulnerability-management/untitled/confidence-levels.md)
   * [Threat Classification](threat-and-vulnerability-management/untitled/threat-classification.md)
   * [Intelligence Cycle](threat-and-vulnerability-management/untitled/intelligence-cycle.md)
-  * [Commodity Malware](threat-and-vulnerability-management/untitled/commodity-malware.md)
 * [Threat Analysis](threat-and-vulnerability-management/threat-analysis/README.md)
   * [Attack Frameworks](threat-and-vulnerability-management/threat-analysis/attack-frameworks.md)
   * [Threat Research](threat-and-vulnerability-management/threat-analysis/threat-research.md)
