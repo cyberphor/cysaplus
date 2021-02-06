@@ -6,8 +6,8 @@
 
 * [Threat Intelligence](threat-and-vulnerability-management/untitled/README.md)
   * [Intelligence Sources](threat-and-vulnerability-management/untitled/intelligence-sources.md)
+  * [Indicators of Compromise](threat-and-vulnerability-management/untitled/indicator-management.md)
   * [Confidence Levels](threat-and-vulnerability-management/untitled/confidence-levels.md)
-  * [Indicator Management](threat-and-vulnerability-management/untitled/indicator-management.md)
   * [Threat Classification](threat-and-vulnerability-management/untitled/threat-classification.md)
   * [Threat Actors](threat-and-vulnerability-management/untitled/threat-actors.md)
   * [Intelligence Cycle](threat-and-vulnerability-management/untitled/intelligence-cycle.md)
