@@ -4,11 +4,6 @@
 
 ## Threat and Vulnerability Management
 
-* [Threat Analysis](threat-and-vulnerability-management/threat-analysis/README.md)
-  * [Attack Frameworks](threat-and-vulnerability-management/threat-analysis/attack-frameworks.md)
-  * [Threat Research](threat-and-vulnerability-management/threat-analysis/threat-research.md)
-  * [Threat Modeling](threat-and-vulnerability-management/threat-analysis/threat-modeling.md)
-  * [Intelligence Sharing with Supported Functions](threat-and-vulnerability-management/threat-analysis/intelligence-sharing-with-supported-functions.md)
 * [Threat Intelligence](threat-and-vulnerability-management/untitled/README.md)
   * [Intelligence Sources](threat-and-vulnerability-management/untitled/intelligence-sources.md)
   * [Confidence Levels](threat-and-vulnerability-management/untitled/confidence-levels.md)
@@ -18,6 +13,11 @@
   * [Intelligence Cycle](threat-and-vulnerability-management/untitled/intelligence-cycle.md)
   * [Commodity Malware](threat-and-vulnerability-management/untitled/commodity-malware.md)
   * [Intelligence Sharing](threat-and-vulnerability-management/untitled/intelligence-sharing.md)
+* [Threat Analysis](threat-and-vulnerability-management/threat-analysis/README.md)
+  * [Attack Frameworks](threat-and-vulnerability-management/threat-analysis/attack-frameworks.md)
+  * [Threat Research](threat-and-vulnerability-management/threat-analysis/threat-research.md)
+  * [Threat Modeling](threat-and-vulnerability-management/threat-analysis/threat-modeling.md)
+  * [Intelligence Sharing with Supported Functions](threat-and-vulnerability-management/threat-analysis/intelligence-sharing-with-supported-functions.md)
 * [Assessment Tools & Techniques](threat-and-vulnerability-management/vulnerability-analysis/README.md)
   * [Enumeration](threat-and-vulnerability-management/vulnerability-analysis/enumeration.md)
   * [Infrastructure Scanners](threat-and-vulnerability-management/vulnerability-analysis/infrastructure-scanners.md)
