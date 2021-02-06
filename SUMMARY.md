@@ -12,7 +12,6 @@
   * [Threat Actors](threat-and-vulnerability-management/untitled/threat-actors.md)
   * [Intelligence Cycle](threat-and-vulnerability-management/untitled/intelligence-cycle.md)
   * [Commodity Malware](threat-and-vulnerability-management/untitled/commodity-malware.md)
-  * [Intelligence Sharing](threat-and-vulnerability-management/untitled/intelligence-sharing.md)
 * [Threat Analysis](threat-and-vulnerability-management/threat-analysis/README.md)
   * [Attack Frameworks](threat-and-vulnerability-management/threat-analysis/attack-frameworks.md)
   * [Threat Research](threat-and-vulnerability-management/threat-analysis/threat-research.md)
