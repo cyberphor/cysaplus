@@ -15,7 +15,7 @@
   * [Attack Frameworks](threat-and-vulnerability-management/threat-analysis/attack-frameworks.md)
   * [Threat Research](threat-and-vulnerability-management/threat-analysis/threat-research.md)
   * [Threat Modeling](threat-and-vulnerability-management/threat-analysis/threat-modeling.md)
-  * [Intelligence Sharing with Supported Functions](threat-and-vulnerability-management/threat-analysis/intelligence-sharing-with-supported-functions.md)
+  * [Supporting Other Cybersecurity Functions](threat-and-vulnerability-management/threat-analysis/intelligence-sharing-with-supported-functions.md)
 * [Assessment Tools & Techniques](threat-and-vulnerability-management/vulnerability-analysis/README.md)
   * [Enumeration](threat-and-vulnerability-management/vulnerability-analysis/enumeration.md)
   * [Infrastructure Scanners](threat-and-vulnerability-management/vulnerability-analysis/infrastructure-scanners.md)
