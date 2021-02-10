@@ -1,18 +1,22 @@
 # Hardware Assurance
 
-## Platforms
+## Hardware Root of Trust
 
-## Software Development Lifecycle
+## eFuse
 
-## DevSecOps
+## UEFI
 
-## Software Assessment Methods
+## Trusted Foundry
 
-## Secure Coding
+## Secure Processing
 
-## Static Analysis
+## Anti-Tamper
 
-## Dynamic Analysis
+## Self-Encrypting Drive
 
-## Service-Oriented Architecture
+## Trusted Firmware Updates
+
+## Measured Boot and Attestation
+
+## Bus Encryption
 
